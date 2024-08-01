@@ -1,0 +1,2744 @@
+('C:\\Users\\Lucas '
+ 'Eng\\Documents\\GitHub\\ERSC_Launcher_Auto_Updater\\build\\launcher\\PYZ-00.pyz',
+ [('PIL',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('auto_updater',
+   'C:\\Users\\Lucas '
+   'Eng\\Documents\\GitHub\\ERSC_Launcher_Auto_Updater\\scripts\\auto_updater.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\base64.py',
+   'PYMODULE'),
+  ('bcrypt',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\bcrypt\\__init__.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('cffi',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi._imp_emulation',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\_imp_emulation.py',
+   'PYMODULE'),
+  ('cffi._shimmed_dist_utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\_shimmed_dist_utils.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\cgi.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('commctrl',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\copy.py',
+   'PYMODULE'),
+  ('cryptography',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.aead',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ciphers',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ciphers.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.decode_asn1',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\decode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_serialization.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.types',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\types.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.aead',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.pkcs12',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\pkcs12.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.verification',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\cryptography\\x509\\verification.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\dis.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._indexing_functions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_indexing_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\pprint.py',
+   'PYMODULE'),
+  ('psutil',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\psutil\\__init__.py',
+   'PYMODULE'),
+  ('psutil._common',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('psutil._compat',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\psutil\\_compat.py',
+   'PYMODULE'),
+  ('psutil._pswindows',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pycparser',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pywin',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin32_system32', '-', 'PYMODULE'),
+  ('pywintypes',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('resource_path_getter',
+   'C:\\Users\\Lucas '
+   'Eng\\Documents\\GitHub\\ERSC_Launcher_Auto_Updater\\scripts\\resource_path_getter.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\selectors.py',
+   'PYMODULE'),
+  ('setup',
+   'C:\\Users\\Lucas '
+   'Eng\\Documents\\GitHub\\ERSC_Launcher_Auto_Updater\\scripts\\setup.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._typing',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\config.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.py34compat',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\py34compat.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\site.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('socks',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\socks.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\threading.py',
+   'PYMODULE'),
+  ('threadpoolctl',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\threadpoolctl.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\uu.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('win32com',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('winerror',
+   'C:\\Users\\Lucas '
+   'Eng\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Lucas '
+   'Eng\\scoop\\apps\\python39\\current\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Lucas Eng\\scoop\\apps\\python39\\current\\lib\\zipimport.py',
+   'PYMODULE')])
