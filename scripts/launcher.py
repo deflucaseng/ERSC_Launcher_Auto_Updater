@@ -21,11 +21,12 @@ if __name__ == "__main__":
 		updater.download_latest_release()
 
 	if(not updater.query_latest_release()):
+		updater.copy_previous_settings()
 		updater.clear_prior_releases()
 		updater.download_latest_release()
+		updater.restore_previous_settings()
 
-	
-	
+
 	updater.update_coop_password()
-	os.startfile("ersc_launcher.exe")
+	#os.startfile("ersc_launcher.exe")
 	exit()

@@ -28,6 +28,35 @@ class autoUpdater:
 
 		return current_version == version
 
+	def copy_previous_settings(self):
+		ini_file_path = os.path.join('SeamlessCoop', 'ersc_settings.ini')
+		temp_settings_path = os.path.join('text_resources', 'temp_settings.txt')
+
+		# Read the contents of the ini file
+		with open(ini_file_path, 'r') as file:
+			lines = file.readlines()
+
+		# Create a new file in text_resources and write the contents
+		with open(temp_settings_path, 'w') as file:
+			file.writelines(lines)
+		
+	def restore_previous_settings(self):
+		ini_file_path = os.path.join('SeamlessCoop', 'ersc_settings.ini')
+		temp_settings_path = os.path.join('text_resources', 'temp_settings.txt')
+
+		# Read the contents of the ini file
+		with open(temp_settings_path, 'r') as file:
+			lines = file.readlines()
+
+		# Write the updated contents back to the ini file
+		with open(ini_file_path, 'w') as file:
+			file.writelines(lines)
+
+		# Remove the temp_settings file
+		os.remove(temp_settings_path)
+		
+
+
 	def clear_prior_releases(self):
 		# Remove the SeamlessCoop directory and its contents
 		shutil.rmtree('SeamlessCoop', ignore_errors=True)
@@ -75,6 +104,14 @@ class autoUpdater:
 
 	
 	def update_coop_password(self):
+
+
+
+
+
+		
+
+
 		ini_file_path = os.path.join('SeamlessCoop', 'ersc_settings.ini')
 		
 		# Read the contents of the ini file
