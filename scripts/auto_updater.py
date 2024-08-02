@@ -106,12 +106,6 @@ class autoUpdater:
 	def update_coop_password(self):
 
 
-
-
-
-		
-
-
 		ini_file_path = os.path.join('SeamlessCoop', 'ersc_settings.ini')
 		
 		# Read the contents of the ini file

@@ -28,5 +28,5 @@ if __name__ == "__main__":
 
 
 	updater.update_coop_password()
-	#os.startfile("ersc_launcher.exe")
+	os.startfile("ersc_launcher.exe")
 	exit()
