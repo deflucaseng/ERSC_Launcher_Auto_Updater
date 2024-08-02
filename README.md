@@ -21,8 +21,8 @@ your password, and run it.
 
 
 For anyone who wishes to tinker with it, the:
-'''
+```
 make
 make clean
-'''
+```
 commands create the zip file required. 
